@@ -5,7 +5,7 @@ Projeto desenvolvido no evento NLW Expert da Rocketseat, de uma aplicação simp
 </p>
 
 <p align="center">
-Veja o resultado <a href="" target="_blank">aqui.</a>
+Veja o resultado <a href="https://rafaverde.github.io/nlwExpertQuiz/" target="_blank">aqui.</a>
 </p>
 
 <p align="center">
